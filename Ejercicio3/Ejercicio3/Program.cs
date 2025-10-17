@@ -31,7 +31,7 @@ class Program
 
     /// Verifica si los paréntesis en una expresión matemática están correctamente balanceados.
     /// Utiliza una pila (Stack) para realizar el seguimiento de los paréntesis de apertura.
-    /// <param name="expresion">La expresión matemática a verificar</param>
+    /// name="expresion">La expresión matemática a verificar
     /// True - si todos los paréntesis están balanceados (cada '(' tiene su ')' correspondiente)
     /// False - si hay paréntesis desbalanceados (faltan o sobran paréntesis)
     /// El algoritmo funciona así:
@@ -77,4 +77,5 @@ class Program
         // - Si la pila NO está vacía: quedaron '(' sin cerrar → No balanceado
         return pila.Count == 0;
     }
+
 }
