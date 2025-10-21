@@ -1,8 +1,0 @@
-C:\Users\MSI LEOPARD\Desktop\python\github\Ejercicio-1-sesion-3-semana-2\Ejercicio 5- S8\Ejercicio 5- S8\bin\Debug\Ejercicio 5- S8.exe.config
-C:\Users\MSI LEOPARD\Desktop\python\github\Ejercicio-1-sesion-3-semana-2\Ejercicio 5- S8\Ejercicio 5- S8\bin\Debug\Ejercicio 5- S8.exe
-C:\Users\MSI LEOPARD\Desktop\python\github\Ejercicio-1-sesion-3-semana-2\Ejercicio 5- S8\Ejercicio 5- S8\bin\Debug\Ejercicio 5- S8.pdb
-C:\Users\MSI LEOPARD\Desktop\python\github\Ejercicio-1-sesion-3-semana-2\Ejercicio 5- S8\Ejercicio 5- S8\obj\Debug\Ejercicio 5- S8.csproj.AssemblyReference.cache
-C:\Users\MSI LEOPARD\Desktop\python\github\Ejercicio-1-sesion-3-semana-2\Ejercicio 5- S8\Ejercicio 5- S8\obj\Debug\Ejercicio 5- S8.csproj.CoreCompileInputs.cache
-C:\Users\MSI LEOPARD\Desktop\python\github\Ejercicio-1-sesion-3-semana-2\Ejercicio 5- S8\Ejercicio 5- S8\obj\Debug\Ejercicio 5- S8.exe
-C:\Users\MSI LEOPARD\Desktop\python\github\Ejercicio-1-sesion-3-semana-2\Ejercicio 5- S8\Ejercicio 5- S8\obj\Debug\Ejercicio 5- S8.pdb
-C:\Users\MSI LEOPARD\Desktop\python\github\Ejercicio-1-sesion-3-semana-2\Ejercicio 5- S8\Ejercicio 5- S8\obj\Debug\Ejercicio 5- S8.exe.config
